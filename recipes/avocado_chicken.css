@@ -1,0 +1,39 @@
+html {
+    background-color: #C4D7B2;
+}
+
+h1 {
+    font-family: 'Brush Script MT', cursive;
+    color: #1A5D1A;
+    font-size: 50px;
+    text-align: center;
+}
+
+h2 {
+    font-family: 'Brush Script MT', cursive;
+    color: #1A5D1A;
+    font-size: 30px;
+}
+img {
+    height: 200px;
+    width: auto;
+    border-radius: 30%;
+    display: block;
+    margin: auto;
+}
+
+p {
+    color: #0A6EBD;
+    font-family: Consolas, monospace;
+    font-style: italic;
+}
+
+ul {
+    font-family: Consolas, monospace;
+
+}
+
+li{
+    color: #0A6EBD;
+    font-family: Consolas, monospace;
+}
